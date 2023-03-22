@@ -1,0 +1,30 @@
+{
+  "name": "devsecops-theme",
+  "displayName": "DevSecOps Theme",
+  "description": "This is the VS Code theme for DevSecOps.",
+  "version": "0.0.1",
+  "publisher": "MyVSCodeTheme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hunqng/devsecops-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme"
+  ],
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "DevSecOps Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/DevSecOps Theme-color-theme.json"
+      }
+    ]
+  }
+}
