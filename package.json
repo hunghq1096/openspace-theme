@@ -1,16 +1,22 @@
 {
-  "name": "devsecops-theme",
-  "displayName": "DevSecOps Theme",
-  "description": "This is the VS Code theme for DevSecOps.",
-  "version": "0.0.1",
-  "publisher": "MyVSCodeTheme",
+  "name": "openspace-theme",
+  "displayName": "OpenSpace Theme",
+  "description": "A dark theme for Visual Studio Code",
+  "author": {
+    "name": "Hung Hoang",
+    "email": "hunghq52@gmail.com"
+  },
+  "license": "MIT",
+  "publisher": "OpenSpace",
+  "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/hunqng/devsecops-theme"
+    "url": "https://github.com/hunqng/openspace-theme"
   },
   "keywords": [
     "theme",
-    "dark theme"
+    "dark theme",
+    "openspace"
   ],
   "engines": {
     "vscode": "^1.76.0"
@@ -18,13 +24,22 @@
   "categories": [
     "Themes"
   ],
+  "icon": "images/open-space.png",
   "contributes": {
     "themes": [
       {
-        "label": "DevSecOps Theme",
+        "label": "OpenSpace Theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/DevSecOps Theme-color-theme.json"
+        "path": "./themes/OpenSpace Theme-color-theme.json"
       }
     ]
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/commit-analyzer": "^9.0.2",
+    "@semantic-release/git": "^10.0.1",
+    "@semantic-release/github": "^8.0.7",
+    "@semantic-release/release-notes-generator": "^10.0.3",
+    "semantic-release": "^20.1.3"
   }
 }

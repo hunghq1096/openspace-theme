@@ -1,16 +1,20 @@
-# devsecops-theme README
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![](https://github.com/hunqng/openspace-theme/actions/workflows/publish.yml/badge.svg)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/hunqng/openspace-theme)
+![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/hunqng/openspace-theme)
 
-## Working with Markdown
+# OpenSpace Theme
+  * A dark theme for [Visual Studio Code](https://code.visualstudio.com/)
+  * Demo  
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+    ![alt demo](images/demo.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+# Installation
+  1. Install the [OpenSpace Theme](https://marketplace.visualstudio.com/items?itemName=OpenSpace.openspace-theme) from the Marketplace
+  2. Open the command palette `(Ctrl/Cmd + Shift + P)` and search for `Preferences: Color Theme`
+  3. Select `OpenSpace Theme`
 
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+# License
+  * This project is released under the [MIT License](https://github.com/hunqng/openspace-theme/blob/main/LICENSE)
 
 **Enjoy!**
