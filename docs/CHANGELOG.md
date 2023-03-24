@@ -11,9 +11,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 * Update documents ([4c7416a](https://github.com/hunqng/openspace-theme/commit/4c7416aeb1ae84ca84f314ddcf89569222fb6ade))
 
-# Change Log
 
-# 1.0.0 (2023-03-24)
+## 1.0.0 (2023-03-24)
 
 
 ### Features
