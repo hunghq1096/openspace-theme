@@ -14,7 +14,10 @@
   2. Open the command palette `(Ctrl/Cmd + Shift + P)` and search for `Preferences: Color Theme`
   3. Select `OpenSpace Theme`
 
+# Release Notes
+  * For full release notes, see [the changelog](https://github.com/hunqng/openspace-theme/blob/main/docs/CHANGELOG.md)
+
 # License
-  * This project is released under the [MIT License](https://github.com/hunqng/openspace-theme/blob/main/LICENSE)
+  * [MIT License](https://github.com/hunqng/openspace-theme/blob/main/LICENSE)
 
 **Enjoy!**
