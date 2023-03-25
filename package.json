@@ -28,9 +28,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "OpenSpace Theme",
+        "label": "OpenSpace",
         "uiTheme": "vs-dark",
-        "path": "./themes/OpenSpace Theme-color-theme.json"
+        "path": "./themes/OpenSpace-color-theme.json"
+      },
+      {
+        "label": "OpenSpace Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OpenSpace-Dark-color-theme.json"
+      },
+      {
+        "label": "OpenSpace Soft",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OpenSpace-Soft-color-theme.json"
       }
     ]
   },
