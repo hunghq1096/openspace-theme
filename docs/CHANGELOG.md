@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.1](https://github.com/hunqng/openspace-theme/compare/v1.1.0...v1.1.1) (2023-03-25)
+
+
+### Bug Fixes
+
+* update theme color ([f7d04ac](https://github.com/hunqng/openspace-theme/commit/f7d04acd567ddc0932307b6b6a0a68ed4c75d1ac))
+
 # [1.1.0](https://github.com/hunqng/openspace-theme/compare/v1.0.3...v1.1.0) (2023-03-25)
 
 
