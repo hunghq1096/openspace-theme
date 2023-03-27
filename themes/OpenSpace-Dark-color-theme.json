@@ -1526,6 +1526,44 @@
 			"settings": {
 				"foreground": "#B267E6"
 			}
+		},
+		{
+			"scope": [
+				"source.go",
+				"go.mod",
+				"source.env",
+				"variable.other.env",
+				"constant"
+			],
+			"settings": {
+				"foreground": "#b4aafa",
+			}
+		},
+		{
+			"scope": [
+				"storage.type.string.go",
+				"storage.type.numeric.go",
+			],
+			"settings": {
+				"foreground": "#E991E3",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"constant.language.go"
+			],
+			"settings": {
+				"foreground": "#FFD866",
+			}
+		},
+		{
+			"scope": [
+				"variable.other.object"
+			],
+			"settings": {
+				"foreground": "#ffffff",
+			}
 		}
 	]
 }
