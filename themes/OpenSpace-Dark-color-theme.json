@@ -750,7 +750,8 @@
 				"constant.language.symbol.elixir"
 			],
 			"settings": {
-				"foreground": "#FC9867"
+				"foreground": "#FC9867",
+				"fontStyle": ""
 			}
 		},
 		{
@@ -1021,7 +1022,7 @@
 				"variable.other.jsdoc"
 			],
 			"settings": {
-				"foreground": "#FC9867"
+				"foreground": "#AB9DF2"
 			}
 		},
 		{
@@ -1128,7 +1129,8 @@
 				"entity.other.alias.php"
 			],
 			"settings": {
-				"foreground": "#AB9DF2"
+				"foreground": "#AB9DF2",
+				"fontStyle": "italic"
 			}
 		},
 		{
@@ -1156,7 +1158,8 @@
 				"source.css.scss meta.property-value.scss"
 			],
 			"settings": {
-				"foreground": "#F8F8F2"
+				"foreground": "#F8F8F2",
+				"fontStyle": "italic"
 			}
 		},
 		{
