@@ -124,7 +124,7 @@
 		"editorSuggestWidget.selectedBackground": "#9aa2a64d",
 		"editorWarning.foreground": "#ffd866",
 		"editorWhitespace.foreground": "#6e6e6e60",
-		"editorWidget.background": "#414247",
+		"editorWidget.background": "#383b42",
 		"editorWidget.resizeBorder": "#9aa2a650",
 		"errorForeground": "#fc6a67",
 		"extensionButton.background": "#9aa2a660",
@@ -1129,8 +1129,7 @@
 				"entity.other.alias.php"
 			],
 			"settings": {
-				"foreground": "#AB9DF2",
-				"fontStyle": "italic"
+				"foreground": "#AB9DF2"
 			}
 		},
 		{
@@ -1158,8 +1157,7 @@
 				"source.css.scss meta.property-value.scss"
 			],
 			"settings": {
-				"foreground": "#F8F8F2",
-				"fontStyle": "italic"
+				"foreground": "#F8F8F2"
 			}
 		},
 		{
@@ -1563,6 +1561,41 @@
 			],
 			"settings": {
 				"foreground": "#ffffff",
+			}
+		},
+		{
+			"scope": [
+				"meta.var.expr storage.type"
+			],
+			"settings": {
+				"foreground": "#78E8C6",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"variable.parameter.ts",
+			],
+			"settings": {
+				"foreground": "#F8F8F2",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"keyword.control.conditional",
+				"keyword.control.trycatch.ts"
+			],
+			"settings": {
+				"foreground": "#FC9867",
+			}
+		},
+		{
+			"scope": [
+				"keyword.control.trycatch.ts"
+			],
+			"settings": {
+				"foreground": "#AB9DF2",
 			}
 		}
 	]
