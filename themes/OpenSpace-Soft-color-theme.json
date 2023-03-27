@@ -1597,6 +1597,15 @@
 			"settings": {
 				"foreground": "#AB9DF2",
 			}
+		},
+		{
+			"scope": [
+				"storage.modifier",
+			],
+			"settings": {
+				"foreground": "#FFD866",
+				"fontStyle": "italic"
+			}
 		}
 	]
 }
