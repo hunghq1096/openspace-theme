@@ -26,7 +26,7 @@
 		"charts.green": "#a9dc76",
 		"charts.lines": "#e1e1e1",
 		"charts.orange": "#fc9867",
-		"charts.purple": "#e991e3",
+		"charts.purple": "#FF79C6",
 		"charts.red": "#fc6a67",
 		"charts.yellow": "#ffd866",
 		"checkbox.foreground": "#e1e1e1",
@@ -71,7 +71,7 @@
 		"editor.wordHighlightBackground": "#9aa2a620",
 		"editor.wordHighlightStrongBackground": "#9aa2a640",
 		"editorBracketHighlight.foreground1": "#ffd866",
-		"editorBracketHighlight.foreground2": "#e991e3",
+		"editorBracketHighlight.foreground2": "#FF79C6",
 		"editorBracketHighlight.foreground3": "#78dce8",
 		"editorBracketHighlight.foreground4": "#ab9df2",
 		"editorBracketHighlight.foreground5": "#78e8c6",
@@ -268,13 +268,13 @@
 		"terminal.ansiBrightBlue": "#78dce8",
 		"terminal.ansiBrightCyan": "#78e8c6",
 		"terminal.ansiBrightGreen": "#a9dc76",
-		"terminal.ansiBrightMagenta": "#e991e3",
+		"terminal.ansiBrightMagenta": "#FF79C6",
 		"terminal.ansiBrightRed": "#fc6a67",
 		"terminal.ansiBrightWhite": "#e1e1e1",
 		"terminal.ansiBrightYellow": "#ffd866",
 		"terminal.ansiCyan": "#78e8c6",
 		"terminal.ansiGreen": "#a9dc76",
-		"terminal.ansiMagenta": "#e991e3",
+		"terminal.ansiMagenta": "#FF79C6",
 		"terminal.ansiRed": "#fc6a67",
 		"terminal.ansiWhite": "#e1e1e1",
 		"terminal.ansiYellow": "#ffd866",
@@ -808,7 +808,7 @@
 				"variable.parameter.gdscript"
 			],
 			"settings": {
-				"foreground": "#E991E3"
+				"foreground": "#FF79C6"
 			}
 		},
 		{
@@ -1377,7 +1377,7 @@
 				"markup.quote.markdown punctuation.definition.quote.begin"
 			],
 			"settings": {
-				"foreground": "#E991E3"
+				"foreground": "#FF79C6"
 			}
 		},
 		{
@@ -1404,7 +1404,7 @@
 				"entity.other.attribute-name.pseudo-class"
 			],
 			"settings": {
-				"foreground": "#E991E3"
+				"foreground": "#FF79C6"
 			}
 		},
 		{
@@ -1412,7 +1412,7 @@
 				"entity.other.attribute-name.pseudo-element"
 			],
 			"settings": {
-				"foreground": "#E991E3"
+				"foreground": "#FF79C6"
 			}
 		},
 		{
