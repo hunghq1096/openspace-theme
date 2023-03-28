@@ -1528,10 +1528,21 @@
 		{
 			"scope": [
 				"source.go",
+				"entity.name.type.go",
+			],
+			"settings": {
+				"foreground": "#ffffff",
+			}
+		},
+		{
+			"scope": [
+				"keyword.var.go",
+				"keyword.const.go",
 				"go.mod",
-				"source.env",
-				"variable.other.env",
-				"constant"
+				"keyword.import.go",
+				"keyword.package.go",
+				"keyword.type.go",
+				"keyword.struct.go",
 			],
 			"settings": {
 				"foreground": "#b4aafa",
@@ -1543,16 +1554,8 @@
 				"storage.type.numeric.go",
 			],
 			"settings": {
-				"foreground": "#E991E3",
-				"fontStyle": "italic"
-			}
-		},
-		{
-			"scope": [
-				"constant.language.go"
-			],
-			"settings": {
 				"foreground": "#FFD866",
+				"fontStyle": "italic"
 			}
 		},
 		{
