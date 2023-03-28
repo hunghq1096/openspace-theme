@@ -1565,46 +1565,10 @@
 		},
 		{
 			"scope": [
-				"meta.var.expr storage.type"
-			],
-			"settings": {
-				"foreground": "#78E8C6",
-				"fontStyle": "italic"
-			}
-		},
-		{
-			"scope": [
-				"variable.parameter.ts",
-			],
-			"settings": {
-				"foreground": "#F8F8F2",
-				"fontStyle": "italic"
-			}
-		},
-		{
-			"scope": [
-				"keyword.control.conditional",
-				"keyword.control.trycatch.ts"
+				"keyword.control.conditional"
 			],
 			"settings": {
 				"foreground": "#FC9867",
-			}
-		},
-		{
-			"scope": [
-				"keyword.control.trycatch.ts"
-			],
-			"settings": {
-				"foreground": "#AB9DF2",
-			}
-		},
-		{
-			"scope": [
-				"storage.modifier",
-			],
-			"settings": {
-				"foreground": "#FFD866",
-				"fontStyle": "italic"
 			}
 		}
 	]
