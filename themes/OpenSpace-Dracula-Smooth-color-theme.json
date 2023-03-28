@@ -624,7 +624,7 @@
 		//"welcomePage.tileBackground": "#21222c",
 		//"welcomePage.tileBorder": "#ffffff1a",
 		//"welcomePage.tileHoverBackground": "#282935",
-		"widget.shadow": "#191a21",
+		"widget.shadow": "#282a36",
 		//"activityBar.activeFocusBorder": null,
 		//"activityBar.border": null,
 		//"button.border": null,
@@ -726,7 +726,7 @@
 		//"titleBar.border": null,
 		//"toolbar.hoverOutline": null,
 		//"welcomePage.background": null,
-		"widget.border": "#191a21",
+		"widget.border": "#282a36",
 		//"window.activeBorder": null,
 		//"window.inactiveBorder": null
 	},

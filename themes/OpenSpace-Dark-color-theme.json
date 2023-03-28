@@ -239,8 +239,8 @@
 		"statusBar.debuggingBackground": "#9aa2a644",
 		"statusBar.debuggingForeground": "#e1e1e1",
 		"statusBar.foreground": "#c8c8c8bb",
-		"statusBar.noFolderBackground": "#25282d",
-		"statusBar.noFolderBorder": "#1c1e22",
+		"statusBar.noFolderBackground": "#0f0f0f",
+		"statusBar.noFolderBorder": "#0f0f0f",
 		"statusBar.noFolderForeground": "#c8c8c8bb",
 		"statusBarItem.activeBackground": "#363941",
 		"statusBarItem.errorBackground": "#fc6a67",
@@ -1551,11 +1551,19 @@
 		{
 			"scope": [
 				"storage.type.string.go",
-				"storage.type.numeric.go",
+				"storage.type.numeric.go"
+			],
+			"settings": {
+				"foreground": "#78DCE8",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"constant"
 			],
 			"settings": {
 				"foreground": "#FFD866",
-				"fontStyle": "italic"
 			}
 		},
 		{
