@@ -33,19 +33,19 @@
         "path": "./themes/OpenSpace-color-theme.json"
       },
       {
-        "label": "OpenSpace Dark",
+        "label": "OpenSpace Dark Flat",
         "uiTheme": "vs-dark",
-        "path": "./themes/OpenSpace-Dark-color-theme.json"
+        "path": "./themes/OpenSpace-Dark-Flat-color-theme.json"
       },
       {
-        "label": "OpenSpace Soft",
+        "label": "OpenSpace Soft Flat",
         "uiTheme": "vs-dark",
-        "path": "./themes/OpenSpace-Soft-color-theme.json"
+        "path": "./themes/OpenSpace-Soft-Flat-color-theme.json"
       },
       {
-        "label": "OpenSpace Dracula Smooth",
+        "label": "OpenSpace Dracula Flat",
         "uiTheme": "vs-dark",
-        "path": "./themes/OpenSpace-Dracula-Smooth-color-theme.json"
+        "path": "./themes/OpenSpace-Dracula-Flat-color-theme.json"
       }
     ]
   },
