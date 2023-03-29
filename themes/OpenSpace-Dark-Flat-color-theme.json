@@ -98,7 +98,7 @@
 		"editorGutter.deletedBackground": "#fc6a67cc",
 		"editorGutter.modifiedBackground": "#78dce8cc",
 		"editorHoverWidget.background": "#363941",
-		"editorHoverWidget.border": "#1c1e22",
+		"editorHoverWidget.border": "#464951",
 		"editorIndentGuide.activeBackground": "#6e6e6ebb",
 		"editorIndentGuide.background": "#6e6e6e30",
 		"editorInlayHint.background": "#c8c8c820",
@@ -770,7 +770,7 @@
 				"comment.block.documentation source"
 			],
 			"settings": {
-				"foreground": "#6E6E6E",
+				"foreground": "#828282",
 				"fontStyle": "italic"
 			}
 		},
