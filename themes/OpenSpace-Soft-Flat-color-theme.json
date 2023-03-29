@@ -36,7 +36,7 @@
 		"commandCenter.border": "#1c1e22",
 		"commandCenter.foreground": "#6e6e6e",
 		"contrastActiveBorder": "#00000000",
-		"contrastBorder": "#414247",
+		// "contrastBorder": "#414247",
 		"debugExceptionWidget.background": "#363941",
 		"debugExceptionWidget.border": "#1c1e22",
 		"debugToolBar.background": "#363941",
