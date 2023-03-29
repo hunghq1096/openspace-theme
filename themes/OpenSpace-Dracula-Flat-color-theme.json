@@ -67,7 +67,7 @@
 		"editorLink.activeForeground": "#8be9fd",
 		"editorMarkerNavigation.background": "#21222c",
 		"editorOverviewRuler.addedForeground": "#50fa7b80",
-		"editorOverviewRuler.border": "#191a21",
+		"editorOverviewRuler.border": "#282a36",
 		"editorOverviewRuler.currentContentForeground": "#50fa7b",
 		"editorOverviewRuler.deletedForeground": "#ff555580",
 		"editorOverviewRuler.errorForeground": "#ff555580",
