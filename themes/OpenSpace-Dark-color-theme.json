@@ -293,7 +293,7 @@
 		"titleBar.activeBackground": "#272b2d",
 		"titleBar.activeForeground": "#d9d9d9",
 		"titleBar.border": "#272b2d",
-		"titleBar.inactiveBackground": "#2d3035",
+		"titleBar.inactiveBackground": "#272b2d",
 		"titleBar.inactiveForeground": "#828282",
 		// "toolbar.hoverBackground": "#6e6e6e60",
 		"tree.indentGuidesStroke": "#6e6e6e70",
