@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/), and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.26](https://github.com/hunqng/openspace-theme/compare/v1.2.25...v1.2.26) (2023-03-30)
+
+
+### Bug Fixes
+
+* update hover widget color ([dae4d51](https://github.com/hunqng/openspace-theme/commit/dae4d51c8c9498d0670250105855d6e3ef8abbcb))
+
 ## [1.2.25](https://github.com/hunqng/openspace-theme/compare/v1.2.24...v1.2.25) (2023-03-30)
 
 
