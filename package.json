@@ -46,6 +46,11 @@
         "label": "OpenSpace Dracula Flat",
         "uiTheme": "vs-dark",
         "path": "./themes/OpenSpace-Dracula-Flat-color-theme.json"
+      },
+      {
+        "label": "OpenSpace Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/OpenSpace-Dark-color-theme.json"
       }
     ]
   },
