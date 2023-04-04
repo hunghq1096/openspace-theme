@@ -5,7 +5,7 @@
 
 # OpenSpace Theme
   * A dark theme for [Visual Studio Code](https://code.visualstudio.com/).
-  * This theme is inspired and further customized based on [Bearded Theme](https://github.com/BeardedBear/bearded-theme).
+  * This theme is inspired and further customized based on [Bearded Theme](https://github.com/BeardedBear/bearded-theme) and [Dracula Official](https://github.com/dracula/visual-studio-code).
   * Demo  
 
     ![alt demo](images/demo.png)
