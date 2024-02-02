@@ -37,7 +37,7 @@
 		"editor.lineHighlightBorder": "#44475a",
 		"editor.rangeHighlightBackground": "#bd93f915",
 		"editor.selectionBackground": "#44475a",
-		"editor.selectionHighlightBackground": "#424450",
+		// "editor.selectionHighlightBackground": "#424450",
 		"editor.snippetFinalTabstopHighlightBackground": "#282a36",
 		"editor.snippetFinalTabstopHighlightBorder": "#50fa7b",
 		"editor.snippetTabstopHighlightBackground": "#282a36",
@@ -74,10 +74,10 @@
 		"editorOverviewRuler.incomingContentForeground": "#bd93f9",
 		"editorOverviewRuler.infoForeground": "#8be9fd80",
 		"editorOverviewRuler.modifiedForeground": "#8be9fd80",
-		"editorOverviewRuler.selectionHighlightForeground": "#ffb86c",
+		// "editorOverviewRuler.selectionHighlightForeground": "#ffb86c",
 		"editorOverviewRuler.warningForeground": "#ffb86c80",
-		"editorOverviewRuler.wordHighlightForeground": "#8be9fd",
-		"editorOverviewRuler.wordHighlightStrongForeground": "#50fa7b",
+		// "editorOverviewRuler.wordHighlightForeground": "#8be9fd",
+		// "editorOverviewRuler.wordHighlightStrongForeground": "#50fa7b",
 		"editorRuler.foreground": "#ffffff1a",
 		"editorSuggestWidget.background": "#21222c",
 		"editorSuggestWidget.foreground": "#f8f8f2",
@@ -966,7 +966,7 @@
 			],
 			"settings": {
 				"foreground": "#8BE9FD",
-				"fontStyle": "normal"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -1173,7 +1173,7 @@
 			],
 			"settings": {
 				"foreground": "#BD93F9",
-				"fontStyle": "regular"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -1182,7 +1182,7 @@
 				"support.type.property-name"
 			],
 			"settings": {
-				"fontStyle": "regular"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -1296,7 +1296,7 @@
 			],
 			"settings": {
 				"foreground": "#FF79C6",
-				"fontStyle": "regular"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -1472,7 +1472,7 @@
 			],
 			"settings": {
 				"foreground": "#F8F8F2",
-				"fontStyle": "normal"
+				"fontStyle": ""
 			}
 		},
 		{
@@ -1534,7 +1534,7 @@
 			],
 			"settings": {
 				"foreground": "#BD93F9",
-				"fontStyle": "normal"
+				"fontStyle": ""
 			}
 		},
 		{
